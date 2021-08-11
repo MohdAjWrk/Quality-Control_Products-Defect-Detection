@@ -142,10 +142,7 @@ imagenet.py --model=models/QC/resnet18.onnx --input_blob=input_0 --output_blob=o
 
 The following video shows the results:
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="RMimages/poster.png">
-    <source src="RMimages/LiveTest.mp4" type="video/mp4">
-  </video>
-</figure>
+https://user-images.githubusercontent.com/86342191/128978269-591c43a6-f74d-4f8b-a3a5-d454a0c74322.mp4
+
 
 # Wish You Enjoy the Tour!
