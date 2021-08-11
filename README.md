@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/86342191/128978225-1988285b-63bc-45c6-bce9-abe1f3d0b420.mp4
-
 # Quality Control Project 
         
 ## Products Defect Detection
